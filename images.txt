@@ -7,3 +7,4 @@ ghcr.io/toeverything/affine:nightly-latest
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+node:16.20.2-alpine
