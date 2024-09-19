@@ -1,10 +1,11 @@
 #fluentd:v1.16.0-1.0
 # ubuntu:18.04
-ghcr.io/toeverything/affine:nightly-latest
+node:16.20.2-alpine
+#ghcr.io/toeverything/affine:nightly-latest
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-node:16.20.2-alpine
+
