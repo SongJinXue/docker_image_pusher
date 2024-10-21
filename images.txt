@@ -1,4 +1,4 @@
---platform=linux/arm64 fluentd:v1.17.1-debian-1.0
+--platform=linux/arm64 fluentd:v1.14.0-debian-1.0
 # ubuntu:18.04
 # node:16.20.2-alpine
 #ghcr.io/toeverything/affine:nightly-latest
