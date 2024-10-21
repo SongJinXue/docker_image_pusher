@@ -1,5 +1,4 @@
-fluentd:v1.6-debian-1@sha256:21b9044268ede564dfe8e2dbf6a9ad385c58504e032d1a40d6ebdcacc72559c1
-
+--platform=linux/arm64 fluentd:v1.6-debian-1
 # ubuntu:18.04
 # node:16.20.2-alpine
 #ghcr.io/toeverything/affine:nightly-latest
