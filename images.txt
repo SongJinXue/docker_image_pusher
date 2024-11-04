@@ -8,4 +8,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-kubesphere/kube-state-metrics:v1.9.7-arm64
+# kubesphere/kube-state-metrics:v1.9.7-arm64
+ --platform=arm64  tomcat:8.5-jdk8
