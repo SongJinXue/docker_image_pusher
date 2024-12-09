@@ -1,8 +1,8 @@
 #--platform=linux/arm64 fluentd:v1.16-1
 # --platform=linux/arm64  ubuntu:18.04
---platform=linux/arm64  redis:4.0-alpine
---platform=linux/arm64  arm64v8/mysql:8.0.29
-
+#--platform=linux/arm64  redis:4.0-alpine
+#--platform=linux/arm64  arm64v8/mysql:8.0.29
+mindspore/mindspore-gpu-cuda11.1:1.8.0
 # node:16.20.2-alpine
 #ghcr.io/toeverything/affine:nightly-latest
 #nginx
