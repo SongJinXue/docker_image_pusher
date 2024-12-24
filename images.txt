@@ -13,13 +13,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 # kubesphere/kube-state-metrics:v1.9.7-arm64
 # --platform=arm64  tomcat:8.5-jdk8
-loongnixk8s/pause-mips64le:3.1
-loongnixk8s/etcd-mips64le:3.2.24-1
-loongnixk8s/coredns-mips64le:1.6.2
-loongnixk8s/kube-proxy-mips64le:v1.13.5
-loongnixk8s/kube-apiserver-mips64le:v1.13.5
-loongnixk8s/kube-controller-manager-mips64le:v1.13.5
-loongnixk8s/kube-scheduler-mips64le:v1.13.5
+
+--platform=linux/arm64/v8 node:16.20.2-slim
 
 
 
