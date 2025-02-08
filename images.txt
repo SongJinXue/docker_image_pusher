@@ -16,8 +16,8 @@
 
 #--platform=linux/arm64/v8 node:16.20.2-slim
 --platform=linux/arm64 google/cadvisor:latest
---platform=linux/arm64
 
+google/cadvisor
 
 
 
