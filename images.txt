@@ -17,7 +17,7 @@
 #--platform=linux/arm64/v8 node:16.20.2-slim
 #google/cadvisor
 #mintplexlabs/anythingllm
---platform=linux/arm64/v8  arm64v8/python:3.10
-
+# --platform=linux/arm64/v8  arm64v8/python:3.10
+amd64/python:3.10-bullseye
 
 
