@@ -19,5 +19,5 @@
 #mintplexlabs/anythingllm
 # --platform=linux/arm64/v8  arm64v8/python:3.10
 amd64/python:3.10-bullseye
-
+aurazuluaga/paddlepaddle_nvidia_tensor:v1
 
