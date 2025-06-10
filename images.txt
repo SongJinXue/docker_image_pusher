@@ -23,6 +23,6 @@
 # ubuntu:22.04
 # restreamio/gstreamer:2025-04-03T13-33-21Z-dev
 # nginx:1.27.4
-mongodb/mongodb-community-server:6.0.19-ubi8
---platform=linux/arm64 mongodb/mongodb-community-server:6.0.19-ubi8
+mongodb/mongodb-community-server:8.0.9-ubi8
+--platform=linux/arm64 mongodb/mongodb-community-server:8.0.9-ubi8
 
