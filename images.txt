@@ -20,6 +20,7 @@
 # --platform=linux/arm64/v8  arm64v8/python:3.10
 # amd64/python:3.10-bullseye
 # aurazuluaga/paddlepaddle_nvidia_tensor:v1i
-ubuntu:22.04
-restreamio/gstreamer:2025-04-03T13-33-21Z-dev
+# ubuntu:22.04
+# restreamio/gstreamer:2025-04-03T13-33-21Z-dev
+nginx:1.27.4
 
