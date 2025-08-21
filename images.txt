@@ -27,4 +27,5 @@
 # --platform=linux/arm64 mongodb/mongodb-community-server:8.0.9-ubi8
 #postgres:17.5
 #--platform=linux/arm64 postgres:17.5
-zookeeper:3.9.3
+#zookeeper:3.9.3
+nacos/nacos-server:v3.0.3
