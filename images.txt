@@ -28,4 +28,5 @@
 #postgres:17.5
 #--platform=linux/arm64 postgres:17.5
 #zookeeper:3.9.3
-nacos/nacos-server:v3.0.3
+# nacos/nacos-server:v3.0.3
+nginx:alpine
