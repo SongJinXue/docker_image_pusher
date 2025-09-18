@@ -34,9 +34,9 @@
 # redis:alpine
 # mariadb:10.7.3
 # dootask/appstore:0.2.8
-onlyoffice/documentserver:7.0.0.132
-kuaifan/fileview:4.1.0-SNAPSHOT-RC4
-jgraph/drawio:16.6.1
+# onlyoffice/documentserver:7.0.0.132
+# kuaifan/fileview:4.1.0-SNAPSHOT-RC4
+# jgraph/drawio:16.6.1
 jgraph/export-5erver:latest
 
 
