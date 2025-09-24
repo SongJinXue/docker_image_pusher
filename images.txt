@@ -37,6 +37,7 @@
 # kuaifan/fileview:4.1.0-SNAPSHOT-RC4
 # jgraph/drawio:16.6.1
 # jgraph/export-server:latest
-arm64v8/postgres:17
+	
+--platform=linux/arm64/v8 arm64v8/postgres:17
 
 
