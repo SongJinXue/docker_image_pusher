@@ -1,10 +1,2 @@
---platform=linux/arm64 jitsi/jicofo:stable-10710
-jitsi/jicofo:stable-10710
---platform=linux/arm64 jitsi/jvb:stable-10710
-jitsi/jvb:stable-10710
---platform=linux/arm64 jitsi/prosody:stable-10710
-jitsi/prosody:stable-10710
-
-
-
-
+--platform=linux/arm64 jitsi/web:stable-10710
+jitsi/web:stable-10710
