@@ -1,44 +1,10 @@
-#--platform=linux/arm64 fluentd:v1.16-1
-# --platform=linux/arm64  ubuntu:18.04
-#--platform=linux/arm64  redis:4.0-alpine
-#--platform=linux/arm64  arm64v8/mysql:8.0.29
-# postgres:16.6
-# node:16.20.2-alpine
-#ghcr.io/toeverything/affine:nightly-latest
-#nginx
-#支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
-# kubesphere/kube-state-metrics:v1.9.7-arm64
-# --platform=arm64  tomcat:8.5-jdk8
-#--platform=linux/arm64/v8 node:16.20.2-slim
-#google/cadvisor
-#mintplexlabs/anythingllm
-# --platform=linux/arm64/v8  arm64v8/python:3.10
-# amd64/python:3.10-bullseye
-# aurazuluaga/paddlepaddle_nvidia_tensor:v1i
-# ubuntu:22.04
-# restreamio/gstreamer:2025-04-03T13-33-21Z-dev
-# nginx:1.27.4
-# mongodb/mongodb-community-server:8.0.9-ubi8
-# --platform=linux/arm64 mongodb/mongodb-community-server:8.0.9-ubi8
-#postgres:17.5
-#--platform=linux/arm64 postgres:17.5
-#zookeeper:3.9.3
-# nacos/nacos-server:v3.0.3
-# nginx:alpine
-# kuaifan/php:swoole-8.0.rc21
-# redis:alpine
-# mariadb:10.7.3
-# dootask/appstore:0.2.8
-# onlyoffice/documentserver:7.0.0.132
-# kuaifan/fileview:4.1.0-SNAPSHOT-RC4
-# jgraph/drawio:16.6.1
-# jgraph/export-server:latest
-# --platform=linux/arm64/v8 arm64v8/postgres:17
---platform=linux/arm64/v8 nginx:1.29.4
- nginx:1.29.4
+--platform=linux/arm64 jitsi/jicofo:stable-10710
+jitsi/jicofo:stable-10710
+--platform=linux/arm64 jitsi/jvb:stable-10710
+jitsi/jvb:stable-10710
+--platform=linux/arm64 jitsi/prosody:stable-10710
+jitsi/prosody:stable-10710
+
+
 
 
