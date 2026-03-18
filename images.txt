@@ -1,2 +1,2 @@
 ## --platform=linux/arm64 jitsi/web:stable-10710
-bitnamicharts/minio:17.0.21
+bitnamilegacy/minio:2025.7.23
