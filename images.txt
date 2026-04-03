@@ -1,3 +1,4 @@
 ## --platform=linux/arm64 jitsi/web:stable-10710
 # bitnamilegacy/minio:2025.7.23
-jitsi/jibri:stable-10710
+# jitsi/jibri:stable-10710
+jitsi/jibri:stable-8319
