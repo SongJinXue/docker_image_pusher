@@ -4,4 +4,4 @@
 # jitsi/jibri:stable-8319
 # jitsi/base-java:stable-10710
 # --platform=linux/arm64 elasticsearch:9.3.3
---platform=linux/arm64 jitsi/prosody:stable-10710
+--platform=linux/arm64 bitnamilegacy/minio:2025.7.23
