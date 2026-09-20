@@ -5,4 +5,5 @@
 # jitsi/base-java:stable-10710
 # --platform=linux/arm64 elasticsearch:9.3.3
 # --platform=linux/arm64 bitnamilegacy/minio:2025.7.23
---platform=linux/arm64 jitsi/base-java:stable-10710
+# --platform=linux/arm64 jitsi/base-java:stable-10710
+coturn/coturn:4.18
