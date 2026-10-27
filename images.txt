@@ -14,4 +14,5 @@ ghcr.io/jitsi/prosody:stable-11248-2
 ghcr.io/jitsi/jicofo:stable-11248-2
 ghcr.io/jitsi/jvb:stable-11248-2
 ghcr.io/jitsi/jigasi:stable-11248-2
+alphacep/kaldi-cn
 
