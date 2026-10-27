@@ -9,4 +9,9 @@
 # coturn/coturn:4.18
 # bluenviron/mediamtx:1.21.1
 # zlmediakit/zlmediakit:master
-ghcr.io/jitsi/web:stable-11248-2
+# ghcr.io/jitsi/web:stable-11248-2
+ghcr.io/jitsi/prosody:stable-11248-2
+ghcr.io/jitsi/jicofo:stable-11248-2
+ghcr.io/jitsi/jvb:stable-11248-2
+ghcr.io/jitsi/jigasi:stable-11248-2
+
